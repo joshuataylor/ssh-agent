@@ -1,4 +1,4 @@
-module github.com/xanzy/ssh-agent
+module github.com/joshuataylor/ssh-agent
 
 go 1.16
 
