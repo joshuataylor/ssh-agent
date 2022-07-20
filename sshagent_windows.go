@@ -28,7 +28,7 @@ import (
 	"sync"
 
 	"github.com/Microsoft/go-winio"
-	"golang.org/x/crypto/ssh/agent"
+	"github.com/joshuataylor/crypto/ssh/agent"
 )
 
 const (
